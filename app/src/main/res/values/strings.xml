@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreateFile</string>
+    <string name="channel_name">Location Updates Channel</string>
+    <string name="channel_description">Channel for receiving location updates</string>
+</resources>
